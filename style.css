@@ -1,0 +1,27 @@
+.gradient-background {
+  background: linear-gradient(300deg, #0a3d2c, #1faa59, #b2ff59);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.about{
+    margin-bottom: 10px;
+}
+
+.traffic{
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+.salary{
+   text-align: center;
+   margin: 0%;
+   padding: 0%;
+}
+
+.portpolio{
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
